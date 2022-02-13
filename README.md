@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://github.com/udanillu"></a>
-   <img height="180em" alt="Status Danillo Github" src="https://github-readme-stats.vercel.app/api?username=udanillu&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" />
+   <img height="130em" alt="Status Danillo Github" src="https://github-readme-stats.vercel.app/api?username=udanillu&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" />
    <img height="180em" alt="Linguagens Danillo Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanillu&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"" />
 </div>
         
