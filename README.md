@@ -1,8 +1,8 @@
 
   <div align="center">
   <a href="https://github.com/udanillu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udanillu&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanillu&layout=Compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udanillu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanillu&layout=Default&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Danillo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
