@@ -15,6 +15,8 @@
 <br />
   
   ![snake gif](https://github.com/udanillu/udanillu/blob/output/github-contribution-grid-snake.gif)
+                                                                                                                                                    
+<br /> 
                                                                                                                                                      
 <div align="center"> 
    <a href="https://instagram.com/u_danillu" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
