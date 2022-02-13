@@ -13,6 +13,9 @@
 ##
         
 <br />
+                                                                                                                                                     
+<div align="center">🐍</div>
+
   
   ![snake gif](https://github.com/udanillu/udanillu/blob/output/github-contribution-grid-snake.gif)
                                                                                                                                                     
