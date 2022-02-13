@@ -13,7 +13,8 @@ I'm a developer currently studying technical high school at ETEC in partnership 
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=udanillu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanillu&layout=compact&langs_count=7&theme=dark"/>
 </div>
-        
+
+<!--
 <div style="display: inline_block" align="center"><br>
    <img alt="Danillo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img alt="Danillo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -21,7 +22,7 @@ I'm a developer currently studying technical high school at ETEC in partnership 
    <img alt="Danillo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
    <img alt="Danillo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div>
-
+-->
 ##
         
 <br />
