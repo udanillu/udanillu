@@ -2,7 +2,7 @@
 
 <div align="center">
    <a href="https://github.com/udanillu">
-   <img height="130em" alt="Status Danillo Github" src="https://github-readme-stats.vercel.app/api?username=udanillu&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udanillu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanillu&layout=compact&langs_count=7&theme=dark"/>
 </div>
         
