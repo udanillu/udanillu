@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="27px">, I'm Danillo Fonseca
 
 I'm a developer currently studying technical high school at ETEC in partnership with IBM, Senac and other online courses. I have experience in HTML | CSS | PHP | JavaScript and some design tools. I also have experience in web development and backend. I've done some school projects, but at the moment I'm looking for more learning.
 
