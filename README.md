@@ -1,4 +1,3 @@
-<div align="center">Bem-Vindos ao meu Perfil</div>
 <div align="center">
    <a href="https://github.com/udanillu">
    <img height="130em" alt="Status Danillo Github" src="https://github-readme-stats.vercel.app/api?username=udanillu&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" />
