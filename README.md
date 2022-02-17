@@ -28,9 +28,9 @@ I'm a developer currently studying technical high school at ETEC in partnership 
 ##
         
 <br />
-                                                                                                                                                    
-  ![snake gif](https://github.com/udanillu/udanillu/blob/output/github-contribution-grid-snake.gif)
-                                                                                                                                                    
+                                                                                                                                    
+   ![Snake animation](https://github.com/udanillu/udanillu/blob/output/github-contribution-grid-snake.svg)
+                                                                                                                                             
 <br /> 
                                                                                                                                                      
 <div align="center"> 
