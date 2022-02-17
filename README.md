@@ -10,7 +10,7 @@ I'm a developer currently studying technical high school at ETEC in partnership 
 
 <div align="center">
    <a href="https://github.com/udanillu">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=udanillu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=udanillua&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanillu&layout=compact&langs_count=7&theme=radical"/>
 </div>
    
