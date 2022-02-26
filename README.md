@@ -3,7 +3,8 @@
 I'm a developer currently studying technical high school at ETEC in partnership with IBM, Senac and other online courses. I have experience in HTML | CSS | PHP | JavaScript and some design tools. I also have experience in web development and backend. I've done some school projects, but at the moment I'm looking for more learning.
 
 - 🔭 I’m currently studying Systems Development.
-- 🌱 I have experience with HTML, CSS, PHP, JavaScript, MySql and others Design Tools.
+- 🚀 Skills: HTML, CSS, JavaScript, Bootstrap, PHP, SQL, Java.
+- 💻 Tools: VSCode, Adobe Photoshop.
 - See my LinkedIn: [Danillo Fonseca](https://www.linkedin.com/in/danillo-fonseca-0b51b3214/)
 
 <br />
