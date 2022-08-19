@@ -2,7 +2,7 @@
 
 ### Hello 🧙‍♂️
 
-Atualmente estudando como Desenvolvedor de Sistemas na ETEC, no programa P-TECH. Tenho também experiência em desenvolvimento web, backend e mobile. Tenho como objetivo me superar cada vez mais, para que no futuro, eu olhe para trás e tenha orgulho.
+Atualmente estudando como Desenvolvedor de Sistemas na ETEC, no programa P-TECH. Tenho como objetivo me superar cada vez mais, para que no futuro, eu olhe para trás e tenha orgulho.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/danillucruz/" alt="Linkedin">
