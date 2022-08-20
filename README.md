@@ -1,1 +1,1 @@
-<img src="background.png" width="800" height="auto" align="center" alt="background">
+<img src="background.jpg" align="center" alt="background">
